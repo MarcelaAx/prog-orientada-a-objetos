@@ -1,3 +1,10 @@
 # prog-orientada-a-objetos
 
-<p>Aula sobre exemplos usados na POO - Programação Orientada a Objetos e seus 4 Pilares: ENCAPSULAMENTO, HERAÇÃO, ABSTRAÇÃO E POLIMORFISMO.</p>
+<p>Aula sobre exemplos usados na POO - Programação Orientada a Objetos e seus 4 Pilares: <br>
+  <ul>
+    <li>ENCAPSULAMENTO</li>
+    <li>HERAÇÃO></li>
+    <li>ABSTRAÇÃO</li>
+    <li>POLIMORFISMO</li>
+  </ul>
+
